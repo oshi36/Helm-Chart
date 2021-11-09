@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx-cy:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-11-09T17:12:20.467601959Z"
+    description: customized jenkins
+    digest: 05762d9073bf0b1ffb482c1f1ec7a4227ef36b8a24db43e1b1a129683cbc72f0
+    name: nginx-cy
+    urls:
+    - https://oshi36.github.io/Helm-Chart/nginx-cy-2.tgz
+    version: "2"
+generated: "2021-11-09T17:12:20.467242141Z"
